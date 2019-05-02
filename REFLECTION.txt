@@ -1,0 +1,6 @@
+  I found this project to be moderately difficult in comparison to the other programs this term. I liked that it required us to use most if not all of 
+the concepts that we learned over the course of the term. Something that I would've done differently is made a better plan for the program, because I
+didn't really grasp the full scope of the project until I was decently far along in my development. A major challenge that this program posed was debugging-
+I had a segfault that was only triggered when approaching the instructor, so it took me an extremely long time playing through the entire maze over and over
+to deduce the issue. The only major bug I had was this segfault, and it required me to advance my knowledge on using copy constructors on polymorphic objects.
+I would say that stack overflow was an imperative resource for me on this assignment, as I have over fifteen tabs open as I'm writing this.
